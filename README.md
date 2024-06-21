@@ -3,7 +3,9 @@
 
 - 🔭 I’m currently working on **Vishal Mega Mart**
 
-- 🌱 I’m currently learning **JetPack Compose**
+- 🌱 I’m currently learning **Jetpack Compose**
+
+- 💬 Ask me about **Android, Flutter**
 
 - 📫 How to reach me **amit.kumarr225@gmail.com**
 
